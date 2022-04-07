@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JCTTool",
+        "repositoryURL": "https://github.com/thobio/JCTTool.git",
+        "state": {
+          "branch": null,
+          "revision": "479a4f1242b971e40b23434a5ccd5db696e64d24",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
